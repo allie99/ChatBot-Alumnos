@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">chatBotUTM</string>
+    <string name="person">person</string>
+    <string name="usuario">usuario</string>
+    <string name="password">password</string>
+    <string name="iniciar">iniciar</string>
+    <string name="recuperarPassword">recuperarPassword</string>
+    <string name="recuperarAqui">recuperarAqui</string>
+    <string name="logo">logo</string>
+</resources>
